@@ -18,7 +18,7 @@
   <a href="https://thewood.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-%23FF4500.svg">
   </a>
-  <a href="https://www.youtube.com/@tedwood201">
+  <a href="https://www.youtube.com/@Rexthehuman">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Badge">
   </a>
 </p>
