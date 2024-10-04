@@ -2,7 +2,7 @@
 <html>
 <h2> Hi, I'm Dawood! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="230">
-<p><em>- Software Enginner at <a href="https://www.lords.ac.in/">LIET</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>- AIML UnderGrad<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 - btw I use Arch <a href="https://archlinux.org/">
   <img src="assets/arch.svg" height="30" align="center" alt="Arch Linux">
