@@ -58,8 +58,8 @@ class About(Me):
 </div>  
 <br>
 <div align="left" >
-  <img height ="200em"src="https://github-readme-stats.vercel.app/api/top-langs?username=Dwukn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img height ="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=algolia" alt="Dwukn" />
+  <img height ="150em"src="https://github-readme-stats.vercel.app/api/top-langs?username=Dwukn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height ="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=algolia" alt="Dwukn" />
 </div>
 
 <!--[![Dwukn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dwukn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
