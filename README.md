@@ -57,7 +57,7 @@ class About(Me):
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dwukn&show_icons=true&theme=algolia&count_private=true"/>-->
 </div>  
 <br>
-<div align="left" >
+<div align="center" >
   <img height ="150em"src="https://github-readme-stats.vercel.app/api/top-langs?username=Dwukn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img height ="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=algolia" alt="Dwukn" />
 </div>
