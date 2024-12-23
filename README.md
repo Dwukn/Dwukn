@@ -29,26 +29,29 @@
 </h2>
 
 
-```python
-class About(Me):
-    def getCurrentWorkplace(self) -> dict:
-        return {
-            'workplace': {
-                'College': 'LIET',
-                'position': 'Student'
-            }
-        }
+```CPP
+class About {
+public:
+    const std::map<std::string, std::string>& getCurrentWorkplace() const {
+        static const std::map<std::string, std::string> workplace = {
+            {"Company", "XUNOIA"},
+            {"Position", "Student"}
+        };
+        return workplace;
+    }
+    const std::vector<std::string>& getDailyKnowledge() const {
+        static const std::vector<std::string> knowledge = {
+            "Python",
+            "C/C++",
+            "Machine_Learning"
+        };
+        return knowledge;
+    }
 
-    def getDailyKnowledge(self) -> List[str]:
-        return [
-            'Python',
-            'C/C++',
-            'Machine_Learning',
-        ]
-
-    def getFutureGoal(self) -> str:
-        return 'To contribute to open source.'
-
+    std::string getFutureGoal() const {
+        return "To contribute to open source.";
+    }
+};
 ```
 
 
