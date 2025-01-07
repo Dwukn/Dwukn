@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Dawood! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="230">
-<p><em>- AIML UnderGrad &nbsp;<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img align='right' src="assets/penguin-code.gif" width="230">
+<p><em>- AIML UnderGrad &nbsp;<img src="assets/readme-into.gif" width="30">
 </em></p>
 - I use Arch btw &nbsp; <a href="https://archlinux.org/">
   <img src="assets/arch.svg" height="28" align="center" alt="Arch Linux">
@@ -25,7 +25,7 @@
 
 
 <h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+  <img src="assets/cat-fall.gif" width="50"> A little more about me...
 </h2>
 
 
@@ -83,6 +83,7 @@ public:
 
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dwukn&theme=blue_green)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dwukn&theme=blue_green)
+  <img height ="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=radical" alt="Dwukn" />
 
 ![Dwukn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dwukn&theme=github-compact)
 <!--
@@ -106,11 +107,10 @@ public:
 </div>
 <br>
 <div align="center" >
-  <img height ="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=radical" alt="Dwukn" />
 </div>
 -->
 <br>
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="assets/gather.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
