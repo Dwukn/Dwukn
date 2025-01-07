@@ -1,3 +1,11 @@
+## My GitHub Contribution Streak
+
+- **Total Contributions**: 63
+- **Current Streak**: 14 days
+- **Streak ran from**: 26-Dec-2024 to 08-Jan-2025
+
+![GitHub Streak](https://github.com/Dwukn/Dwukn/blob/main/.github/images/streak.svg)
+
 <h1 align="center"> Hi, I'm Dawood! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="230">
 <p><em>- AIML UnderGrad &nbsp;<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -25,7 +33,7 @@
 
 
 <h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 </h2>
 
 
@@ -57,7 +65,7 @@ public:
 
 
 <!--
-<details>	
+<details>
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -77,7 +85,7 @@ public:
 -->
 
 
-## Github Stats  
+## Github Stats
 
 ![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Dwukn&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true&count_private=true)
 
@@ -85,10 +93,10 @@ public:
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dwukn&theme=blue_green)
 
 ![Dwukn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dwukn&theme=github-compact)
-<!-- 
+<!--
 [![Dwukn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Dwukn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Dwukn/github-readme-stats#gh-dark-mode-only)
 [![Dwukn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Dwukn&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Dwukn/github-readme-stats#gh-light-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwukn&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwukn&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![Dwukn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwukn\&rank_icon=percentile&theme=)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwukn&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=blue-green&hide_border=true&count_private=true)
@@ -103,7 +111,7 @@ public:
 <div align="center">
   <img height ="200em"src="https://github-readme-stats.vercel.app/api/top-langs?username=Dwukn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dwukn&show_icons=true&theme=algolia&count_private=true"/>
-</div>  
+</div>
 <br>
 <div align="center" >
   <img height ="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=radical" alt="Dwukn" />
