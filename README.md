@@ -1,11 +1,3 @@
-## My GitHub Contribution Streak
-
-- **Total Contributions**: 63
-- **Current Streak**: 14 days
-- **Streak ran from**: 26-Dec-2024 to 08-Jan-2025
-
-![GitHub Streak](https://github.com/Dwukn/Dwukn/blob/main/.github/images/streak.svg)
-
 <h1 align="center"> Hi, I'm Dawood! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="230">
 <p><em>- AIML UnderGrad &nbsp;<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
