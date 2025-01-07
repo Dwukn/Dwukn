@@ -80,17 +80,21 @@ public:
 ## Github Stats  
 
 ![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Dwukn&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwukn&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
+
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dwukn&theme=blue_green)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dwukn&theme=blue_green)
+
+![Dwukn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dwukn&theme=github-compact)
 <!-- 
+[![Dwukn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Dwukn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Dwukn/github-readme-stats#gh-dark-mode-only)
+[![Dwukn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Dwukn&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Dwukn/github-readme-stats#gh-light-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwukn&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
 ![Dwukn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwukn\&rank_icon=percentile&theme=)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwukn&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=blue-green&hide_border=true&count_private=true)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dwukn&theme=blue_green&utcOffset=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwukn\&layout=pie)]
 -->
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dwukn&theme=blue_green)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dwukn&theme=blue_green)
-[![Dwukn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dwukn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
