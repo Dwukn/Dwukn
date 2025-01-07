@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Dawood! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center"> Hi, I'm Dawood! <img src="assets/cat-popup.gif" width="50"></h2>
 <img align='right' src="assets/penguin-code.gif" width="230">
 <p><em>- AIML UnderGrad &nbsp;<img src="assets/readme-into.gif" width="30">
 </em></p>
