@@ -23,6 +23,6 @@ jobs:
 
       - name: Fetch GitHub Streak and Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STREAK_TOKEN }}
         run: |
           node update-streak.js
