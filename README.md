@@ -35,7 +35,7 @@ public:
     const std::map<std::string, std::string>& getCurrentWorkplace() const {
         static const std::map<std::string, std::string> workplace = {
             {"Company", "XUNOIA"},
-            {"Position", "Student"}
+            {"Position", "Web Developer"}
         };
         return workplace;
     }
@@ -43,7 +43,7 @@ public:
         static const std::vector<std::string> knowledge = {
             "Python",
             "C/C++",
-            "Machine_Learning"
+            "Machine Learning"
         };
         return knowledge;
     }
