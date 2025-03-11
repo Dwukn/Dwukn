@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Machine+Learning+Pioneer+%F0%9F%A7%A0;Code+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Code+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,8 +25,8 @@
 <br>
 
 <!-- About Me Section with Animated Border -->
-<div align="center">
-  <img src="https://media.giphy.com/media/jO18SawuDYHgbCHBM6/giphy.gif" width="100">
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/jO18SawuDYHgbCHBM6/giphy.gif" width="100"> -->
   <h1>👨‍💻 About Me</h1>
 </div>
 
@@ -41,8 +41,7 @@
         <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25" alt="graduation_cap" /> AIML Undergraduate passionate about solving complex problems<br><br>
         <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" alt="Man Technologist Light Skin Tone" /> Web Developer @ XUNOIA crafting seamless user experiences<br><br>
         <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Star.png" width="25" height="25" alt="Star" /> Open Source Enthusiast contributing to the community<br><br>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="25" height="25" alt="sunglasses" /> Arch Linux Power User (yes, I use Arch btw)<br><br>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Food%20and%20drink/Hot%20Beverage.png" width="25" height="25" alt="coffee" /> Fueled by coffee, curiosity, and the thrill of innovation
+        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="25" height="25" alt="sunglasses" /> Linux Power User (I use Arch btw)<br>
       </p>
     </td>
   </tr>
@@ -58,19 +57,19 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,go,react,nodejs,nextjs,tailwind,flask&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,go,rust,react,nodejs,nextjs,tailwind&perline=10" />
 </div>
 
 <div align="center">
-  <h3>🧠 AI & Data Science</h3>
+  <h3>🧠 AI & ML</h3>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=10" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
   <br>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<!--   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> -->
 </div>
 
 <div align="center">
@@ -78,12 +77,12 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,linux,neovim,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,mysql,linux,neovim,vscode&perline=10" />
 </div>
 
 <div align="center">
   <h1>📈 GitHub Analytics</h1>
-  <img src="https://media.giphy.com/media/l378w1RWOixMrOK8E/giphy.gif" width="80">
+  <!-- <img src="https://media.giphy.com/media/l378w1RWOixMrOK8E/giphy.gif" width="80"> -->
 </div>
 
 <div align="center">
@@ -92,13 +91,11 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="90%" src="https://streak-stats.demolab.com?user=Dwukn&theme=tokyonight&hide_border=true&border_radius=10&fire=FF5900&background=0D1117&ring=38BDAE&dates=6282B5" alt="GitHub Streak" />
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dwukn&theme=dark&hide_border=true&border_radius=10&fire=58a6ff&background=0D1117&ring=58a6ff&dates=6282B5" alt="GitHub Streak" />
   </a>
-
-  <br><br>
-
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Dwukn&theme=radical&column=7&no-frame=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dwukn&theme=react&bg_color=0d1117&color=58a6ff" alt="Dwukn's GitHub activity graph" />
 </div>
+
 
 <div align="center">
   <h1>🔥 Featured Projects 🔥</h1>
@@ -107,77 +104,71 @@
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <h3 align="center">🧠 AI/ML Project</h3>
-      <div align="center">
-        <a href="https://github.com/Dwukn/project1">
-          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=project1&theme=react&bg_color=0D1117&hide_border=true" alt="project1" />
+    <td width="50%" style="max-width: 300px; text-align: center; padding: 10px;">
+      <h3>🧠 AIMind</h3>
+      <div style="margin-bottom: 10px;">
+        <a href="https://github.com/Dwukn/AIMind">
+          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=AIMind&theme=react&bg_color=0D1117&hide_border=true" alt="AIMind" style="max-height: 60px; object-fit: contain;" />
         </a>
         <p>
-          <strong>Deep Learning for Computer Vision</strong><br>
-          Custom CNN architecture achieving state-of-the-art performance on image classification tasks with optimized inference.
-        </p>
-        <a href="https://github.com/Dwukn/project1">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        Includes Star Wars ChatBot, Pix2Pix model, neural network from scratch.
+      </p>
+      <a href="https://github.com/Dwukn/AIMind" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">🌐 Web Development</h3>
-      <div align="center">
-        <a href="https://github.com/Dwukn/project2">
-          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=project2&theme=react&bg_color=0D1117&hide_border=true" alt="project2" />
-        </a>
-        <p>
-          <strong>Next.js Full-Stack Application</strong><br>
-          Modern web application with server-side rendering, MongoDB integration, and Tailwind CSS for a responsive UI.
-        </p>
-        <a href="https://github.com/Dwukn/project2">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
+    <td width="50%" style="max-width: 300px; text-align: center; padding: 10px;">
+      <h3>🌐 WebXtend</h3>
+      <div style="margin-bottom: 10px;">
+        <a href="https://github.com/Dwukn/WebXtend">
+          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=WebXtend&theme=react&bg_color=0D1117&hide_border=true" alt="WebXtend" style="max-height: 120px; object-fit: contain;" />
         </a>
       </div>
+      <p>
+        <strong>Web Extensions</strong><br>
+        Includes ad blocker, VPN, and NSFW content blocker.
+      </p>
+      <a href="https://github.com/Dwukn/WebXtend">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">⚙️ Low-Level Systems</h3>
-      <div align="center">
-        <a href="https://github.com/Dwukn/project3">
-          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=project3&theme=react&bg_color=0D1117&hide_border=true" alt="project3" />
-        </a>
-        <p>
-          <strong>High-Performance C++ Library</strong><br>
-          Memory-efficient data processing library with SIMD optimizations and multi-threading for large-scale applications.
-        </p>
-        <a href="https://github.com/Dwukn/project3">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
+    <td width="50%" style="max-width: 300px; text-align: center; padding: 10px;">
+      <h3>⚙️ BinRex</h3>
+      <div style="margin-bottom: 10px;">
+        <a href="https://github.com/Dwukn/BinRex">
+          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=BinRex&theme=react&bg_color=0D1117&hide_border=true" alt="BinRex" style="max-height: 120px; object-fit: contain;" />
         </a>
       </div>
+      <p>
+        <strong>C/C++ Binary Collection</strong><br>
+        High-performance tools for Linux management, code analysis, and UI libraries.
+      </p>
+      <a href="https://github.com/Dwukn/BinRex">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">🐧 Linux Tools</h3>
-      <div align="center">
-        <a href="https://github.com/Dwukn/project4">
-          <img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=project4&theme=react&bg_color=0D1117&hide_border=true" alt="project4" />
-        </a>
-        <p>
-          <strong>Arch Linux System Utilities</strong><br>
-          Custom CLI tools designed for system monitoring, package management, and workflow optimization for Arch Linux users.
-        </p>
-        <a href="https://github.com/Dwukn/project4">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-    </td>
+<td width="50%" style="max-width: 300px; text-align: center; padding: 10px;">
+  <h3>🧑‍💻 SortItOut</h3>
+  <div style="margin-bottom: 10px;">
+    <a href="https://github.com/Dwukn/SortItOut">
+      <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=SortItOut&theme=react&bg_color=0D1117&hide_border=true" alt="SortItOut" style="max-height: 120px; object-fit: contain;" />
+    </a>
+  </div>
+  <p>
+    <strong>Learn DSA, Python, JS, CP & More!</strong><br>
+    A platform for mastering Data Structures & Algorithms in Python and JavaScript, along with Competitive Programming (CP) problems and quizzes.
+  </p>
+  <a href="https://github.com/Dwukn/SortItOut">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td>
   </tr>
 </table>
 
-<div align="center">
-  <h1>💡 My Coding Philosophy</h1>
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="80">
-</div>
-
-```cpp
+<!-- ```cpp
 class DawoodPhilosophy {
 private:
     std::vector<std::string> principles = {
@@ -199,7 +190,7 @@ public:
         return "Building tomorrow's technology with today's code";
     }
 };
-```
+``` -->
 
 <div align="center">
   <h1>📚 Latest Blog Posts</h1>
@@ -249,7 +240,7 @@ public:
 </div>
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="dawood220a@gmai.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dwukn/">
