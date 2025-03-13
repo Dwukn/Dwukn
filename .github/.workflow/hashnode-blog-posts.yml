@@ -1,0 +1,41 @@
+name: Fetch Latest Hashnode Blog Posts
+
+on:
+  schedule:
+    # Runs every day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch Hashnode Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "HASHNODE_BLOG"
+          feed_list: "https://thewood.hashnode.dev/rss.xml"
+          template: |
+            <tr>
+              <td>
+                <a href="$url">
+                  <img src="$image" alt="$title" width="100%">
+                </a>
+              </td>
+              <td>
+                <a href="$url">
+                  <strong>$title</strong>
+                </a>
+                <br>
+                <em>Published on $date</em>
+                <br>
+                $description
+              </td>
+            </tr>
+          date_format: "mmm dd, yyyy"
+          max_post_count: 4
+          output_dir: "."

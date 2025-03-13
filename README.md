@@ -197,18 +197,18 @@ public:
   <img src="https://media.giphy.com/media/3otPorZ08nPuaZfoeA/giphy.gif" width="80">
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Neural Networks from Scratch: Understanding the Fundamentals](https://thewood.hashnode.dev)
-- [My Journey with Arch Linux: Customization, Performance, and Lessons Learned](https://thewood.hashnode.dev)
-- [Web Development in 2025: Trends and Technologies to Watch](https://thewood.hashnode.dev)
-- [Optimizing Python Code for Production: Tips and Tricks](https://thewood.hashnode.dev)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<table>
+  <!-- Content will be automatically populated here -->
+</table>
+<!-- HASHNODE_BLOG:END -->
 
 <div align="center">
   <a href="https://thewood.hashnode.dev/">
     <img src="https://img.shields.io/badge/READ_MORE_ARTICLES-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </div>
+
 
 <div align="center">
   <h1>🎯 Future Goals</h1>
