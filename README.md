@@ -198,9 +198,7 @@ public:
 </div>
 
 <!-- HASHNODE_BLOG:START -->
-<table>
-  <!-- Content will be automatically populated here -->
-</table>
+<!-- Content will be automatically populated here -->
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
