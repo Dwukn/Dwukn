@@ -99,7 +99,7 @@
 
 <div align="center">
   <h1>🔥 Featured Projects 🔥</h1>
-  <img src="https://media.giphy.com/media/4PVeey0T30PAiL4Cxh/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/xT5LMzhjPlEoM3jQvm/giphy.gif?cid=ecf05e47s1ds78h6vuf0ys6a7kna8hriigeigq4dudgee3ts&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="80">
 </div>
 
 <table border="0">
@@ -110,9 +110,6 @@
         <a href="https://github.com/Dwukn/AIMind">
           <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=AIMind&theme=react&bg_color=0D1117&hide_border=true" alt="AIMind" style="max-height: 60px; object-fit: contain;" />
         </a>
-        <p>
-        Includes Star Wars ChatBot, Pix2Pix model, neural network from scratch.
-      </p>
       <a href="https://github.com/Dwukn/AIMind" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
@@ -125,10 +122,6 @@
           <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=WebXtend&theme=react&bg_color=0D1117&hide_border=true" alt="WebXtend" style="max-height: 120px; object-fit: contain;" />
         </a>
       </div>
-      <p>
-        <strong>Web Extensions</strong><br>
-        Includes ad blocker, VPN, and NSFW content blocker.
-      </p>
       <a href="https://github.com/Dwukn/WebXtend">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -143,9 +136,6 @@
         </a>
       </div>
       <p>
-        <strong>C/C++ Binary Collection</strong><br>
-        High-performance tools for Linux management, code analysis, and UI libraries.
-      </p>
       <a href="https://github.com/Dwukn/BinRex">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -157,10 +147,6 @@
       <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=SortItOut&theme=react&bg_color=0D1117&hide_border=true" alt="SortItOut" style="max-height: 120px; object-fit: contain;" />
     </a>
   </div>
-  <p>
-    <strong>Learn DSA, Python, JS, CP & More!</strong><br>
-    A platform for mastering Data Structures & Algorithms in Python and JavaScript, along with Competitive Programming (CP) problems and quizzes.
-  </p>
   <a href="https://github.com/Dwukn/SortItOut">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -194,10 +180,12 @@ public:
 
 <div align="center">
   <h1>📚 Latest Blog Posts</h1>
-  <img src="https://media.giphy.com/media/3otPorZ08nPuaZfoeA/giphy.gif" width="80">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVrc3Jkb3ZpczV4dzdnbnprZHd6MXRnemw1NTJ0d28xeHA2b25tNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" width="80">
 </div>
 
-<!-- HASHNODE_BLOG:START -->- <a href="https://thewood.hashnode.dev/microsofts-typescript-compiler-rewritten-in-go-a-game-changer-for-developers" target="_blank">Microsoft&#39;s TypeScript Compiler Rewritten in Go: A Game-Changer for Developers</a> <br></br>- <a href="https://thewood.hashnode.dev/unlocking-the-power-of-conversational-ai-building-a-smart-chatbot-from-scratch" target="_blank">Unlocking the Power of Conversational AI: Building a Smart Chatbot from Scratch</a> <br></br><!-- HASHNODE_BLOG:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- Content will be automatically populated here -->
+<!-- HASHNODE_BLOG:END -->
 
 <div align="center">
   <a href="https://thewood.hashnode.dev/">
