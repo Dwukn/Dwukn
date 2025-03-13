@@ -197,9 +197,7 @@ public:
   <img src="https://media.giphy.com/media/3otPorZ08nPuaZfoeA/giphy.gif" width="80">
 </div>
 
-<!-- HASHNODE_BLOG:START -->
-<!-- Content will be automatically populated here -->
-<!-- HASHNODE_BLOG:END -->
+<!-- HASHNODE_BLOG:START -->- <a href="https://thewood.hashnode.dev/microsofts-typescript-compiler-rewritten-in-go-a-game-changer-for-developers" target="_blank">Microsoft&#39;s TypeScript Compiler Rewritten in Go: A Game-Changer for Developers</a> <br></br>- <a href="https://thewood.hashnode.dev/unlocking-the-power-of-conversational-ai-building-a-smart-chatbot-from-scratch" target="_blank">Unlocking the Power of Conversational AI: Building a Smart Chatbot from Scratch</a> <br></br><!-- HASHNODE_BLOG:END -->
 
 <div align="center">
   <a href="https://thewood.hashnode.dev/">
