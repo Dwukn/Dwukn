@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=300&section=header&text=Dawood%20%7C%20AI%2FML%20Engineer&fontSize=50&fontAlignY=35&desc=Building%20the%20future%20with%20code%20and%20machine%20learning&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=300&section=header&text=Dawood%&fontSize=50&fontAlignY=35&desc=Building%20the%20future%20with%20code%20and%20machine%20learning&descAlignY=60&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -38,10 +38,10 @@
     <td width="50%">
       <h3>I'm a</h3>
       <p>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25" alt="graduation_cap" /> AIML Undergraduate passionate about solving complex problems<br><br>
+        <!-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25" alt="graduation_cap" /> AIML passionate about solving complex problems<br> -->
         <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" alt="Man Technologist Light Skin Tone" /> Web Developer @ XUNOIA crafting seamless user experiences<br><br>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Star.png" width="25" height="25" alt="Star" /> Open Source Enthusiast contributing to the community<br><br>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="25" height="25" alt="sunglasses" /> Linux Power User (I use Arch btw)<br>
+        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Star.png" width="25" height="25" alt="Star" /> Building tools to make life a little easy <br><br>
+        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="25" height="25" alt="sunglasses" /> Also I use Arch btw <br>
       </p>
     </td>
   </tr>
@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,go,rust,react,nodejs,nextjs,tailwind&perline=10" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🧠 AI & ML</h3>
 </div>
 
@@ -70,7 +70,7 @@
 <!--   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> -->
-</div>
+</div> -->
 
 <div align="center">
   <h3>🔧 DevOps & Tools</h3>
@@ -105,49 +105,49 @@
 <table border="0">
   <tr>
     <td width="50%" style="max-width: 300px; text-align: center; padding: 10px;">
-      <h3>🧠 AIMind</h3>
+      <h3>🧠 Janus </h3>
       <div style="margin-bottom: 10px;">
-        <a href="https://github.com/Dwukn/AIMind">
-          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=AIMind&theme=react&bg_color=0D1117&hide_border=true" alt="AIMind" style="max-height: 60px; object-fit: contain;" />
+        <a href="https://github.com/Dwukn/Janus">
+          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=Janus&theme=react&bg_color=0D1117&hide_border=true" alt="Janus" style="max-height: 60px; object-fit: contain;" />
         </a>
-      <a href="https://github.com/Dwukn/AIMind" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Dwukn/Janus" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
       </div>
     </td>
     <td width="50%" style="max-width: 300px; text-align: center; padding: 10px;">
-      <h3>🌐 WebXtend</h3>
+      <h3>🌐 Loki </h3>
       <div style="margin-bottom: 10px;">
-        <a href="https://github.com/Dwukn/WebXtend">
-          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=WebXtend&theme=react&bg_color=0D1117&hide_border=true" alt="WebXtend" style="max-height: 120px; object-fit: contain;" />
+        <a href="https://github.com/Dwukn/Loki">
+          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=Loki&theme=react&bg_color=0D1117&hide_border=true" alt="Loki" style="max-height: 120px; object-fit: contain;" />
         </a>
       </div>
-      <a href="https://github.com/Dwukn/WebXtend">
+      <a href="https://github.com/Dwukn/Loki">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" style="max-width: 300px; text-align: center; padding: 10px;">
-      <h3>⚙️ BinRex</h3>
+      <h3>⚙️ Athena </h3>
       <div style="margin-bottom: 10px;">
-        <a href="https://github.com/Dwukn/BinRex">
-          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=BinRex&theme=react&bg_color=0D1117&hide_border=true" alt="BinRex" style="max-height: 120px; object-fit: contain;" />
+        <a href="https://github.com/Dwukn/Athena">
+          <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=Athena&theme=react&bg_color=0D1117&hide_border=true" alt="Athena" style="max-height: 120px; object-fit: contain;" />
         </a>
       </div>
       <p>
-      <a href="https://github.com/Dwukn/BinRex">
+      <a href="https://github.com/Dwukn/Athena">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
 <td width="50%" style="max-width: 300px; text-align: center; padding: 10px;">
-  <h3>🧑‍💻 SortItOut</h3>
+  <h3>🧑‍💻 Hectate </h3>
   <div style="margin-bottom: 10px;">
-    <a href="https://github.com/Dwukn/SortItOut">
-      <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=SortItOut&theme=react&bg_color=0D1117&hide_border=true" alt="SortItOut" style="max-height: 120px; object-fit: contain;" />
+    <a href="https://github.com/Dwukn/Hectate">
+      <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=Hectate&theme=react&bg_color=0D1117&hide_border=true" alt="Hectate" style="max-height: 120px; object-fit: contain;" />
     </a>
   </div>
-  <a href="https://github.com/Dwukn/SortItOut">
+  <a href="https://github.com/Dwukn/Hectate">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-12100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </td>
