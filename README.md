@@ -32,14 +32,14 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450">
+      <img src="assets/laptop-with-floaty-text.gif" width="450">
     </td>
     <td width="50%">
       <h3>I'm a</h3>
       <p>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" alt="Man Technologist Light Skin Tone" /> Web Developer @ XUNOIA crafting seamless user experiences<br><br>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Star.png" width="25" height="25" alt="Star" /> Building tools to make life a little easy <br><br>
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="25" height="25" alt="sunglasses" /> Also I use Arch btw <br>
+        <img src="assets/Man-Technologist-Light-Skin-Tone.png" width="25" height="25" alt="Man Technologist Light Skin Tone" /> Web Developer @ XUNOIA crafting seamless user experiences<br><br>
+        <img src="assets/Star.png" width="25" height="25" alt="Star" /> Building tools to make life a little easy <br><br>
+        <img src="assets/Smiling-Face with-Sunglasses.png" width="25" height="25" alt="sunglasses" /> Also I use Arch btw <br>
       </p>
     </td>
   </tr>
@@ -47,7 +47,7 @@
 
 <div align="center">
   <h1>🛠️ Tech Arsenal 🛠️</h1>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80">
+  <img src="assets/laptop-with-floaty-text.gif" width="80">
 </div>
 
 <div align="center">
@@ -91,7 +91,7 @@
       <h1>🚀 Project Showcase 🚀</h1>
     </td>
     <td align="right">
-      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150">
+      <img src="assets/computer.gif" width="150">
     </td>
   </tr>
 </table>
@@ -155,11 +155,11 @@
       <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 1px;">
         <div style="background: #0D1117; border-radius: 14px; padding: 20px;">
           <h2>Hecate </h2>
-          <a href="https://github.com/Dwukn/Hectate">
-            <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=Hectate&theme=react&bg_color=0D1117&hide_border=true" alt="Hectate" />
+          <a href="https://github.com/Dwukn/Hecate">
+            <img width="90%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dwukn&repo=Hecate&theme=react&bg_color=0D1117&hide_border=true" alt="Hecate" />
           </a>
           <div style="margin: 15px 0;">
-            <a href="https://github.com/Dwukn/Hectate">
+            <a href="https://github.com/Dwukn/Hecatae">
               <img src="https://img.shields.io/badge/EXPLORE_CODE-12100E?style=for-the-badge&logo=github&logoColor=white&color=fa709a" />
             </a>
           </div>
@@ -209,7 +209,7 @@
 <!-- Call to Action -->
 <div align="center">
   <h2>🎮 Want to Play with My Code?</h2>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80">
+  <img src="assets/giphy.gif" width="80">
   <br><br>
   <a href="https://github.com/Dwukn?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOS-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
@@ -226,7 +226,7 @@
 
 <div align="center">
   <h1>📚 Latest Blog Posts</h1>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVrc3Jkb3ZpczV4dzdnbnprZHd6MXRnemw1NTJ0d28xeHA2b25tNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" width="80">
+  <img src="assets/fire-writing.webp" width="80">
 </div>
 
 <!-- HASHNODE_BLOG:START -->
@@ -245,31 +245,31 @@
 
 <div align="center">
   <h1>🎯 Future Goals</h1>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80">
+  <img src="assets/man-with-screen.webp" width="80">
 </div>
 
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Telescope.png" width="25" height="25" alt="telescope" /> Contribute to major open source AI projects
+      <img src="assets/Telescope.png" width="25" height="25" alt="telescope" /> Contribute to major open source AI projects
     </td>
     <td>
-      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25" height="25" alt="writing" /> Publish research papers in ML/AI field
+      <img src="assets/Writing Hand.png" width="25" height="25" alt="writing" /> Publish research papers in ML/AI field
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Activities/Puzzle%20Piece.png" width="25" height="25" alt="puzzle" /> Build tools that empower developers
+      <img src="assets/Jigsaw.png" width="25" height="25" alt="puzzle" /> Build tools that empower developers
     </td>
     <td>
-      <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/People/Teacher.png" width="25" height="25" alt="teacher" /> Mentor emerging developers in the community
+      <img src="assets/Teacher.png" width="25" height="25" alt="teacher" /> Mentor emerging developers in the community
     </td>
   </tr>
 </table>
 
 <div align="center">
   <h1>📬 Get in Touch</h1>
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="80">
+  <img src="assets/monitor-screen-showing-things.webp" width="80">
 </div>
 
 <div align="center">
