@@ -32,7 +32,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="assets/laptop-with-floaty-text.gif" width="450">
+      <img src="assets/looney-toons.webp" width="450">
     </td>
     <td width="50%">
       <h3>I'm a</h3>
