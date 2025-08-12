@@ -195,26 +195,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Ready+to+Build+Something+Amazing%3F+%F0%9F%9A%80;Let's+Code+the+Future+Together!+%F0%9F%8C%9F" alt="Call to Action" />
 </div> -->
 
-<br>
-
-<div align="center">
+<!-- <div align="center">
   <h1>📚 Latest Blog Posts</h1>
   <img src="assets/fire-writing.webp" width="80">
-</div>
+</div> -->
 
 <!-- HASHNODE_BLOG:START -->
-- <a href="https://thewood.hashnode.dev/neural-network-from-scratch-in-python-a-step-by-step-guide" target="_blank">Neural Network from Scratch in Python: A Step-by-Step Guide</a> <br></br>
+<!-- - <a href="https://thewood.hashnode.dev/neural-network-from-scratch-in-python-a-step-by-step-guide" target="_blank">Neural Network from Scratch in Python: A Step-by-Step Guide</a> <br></br>
 - <a href="https://thewood.hashnode.dev/microsofts-typescript-compiler-rewritten-in-go-a-game-changer-for-developers" target="_blank">Microsoft&#39;s TypeScript Compiler Rewritten in Go: A Game-Changer for Developers</a> <br></br>
-- <a href="https://thewood.hashnode.dev/unlocking-the-power-of-conversational-ai-building-a-smart-chatbot-from-scratch" target="_blank">Unlocking the Power of Conversational AI: Building a Smart Chatbot from Scratch</a> <br></br>
+- <a href="https://thewood.hashnode.dev/unlocking-the-power-of-conversational-ai-building-a-smart-chatbot-from-scratch" target="_blank">Unlocking the Power of Conversational AI: Building a Smart Chatbot from Scratch</a> <br></br> -->
 <!-- HASHNODE_BLOG:END -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://thewood.hashnode.dev/">
     <img src="https://img.shields.io/badge/READ_MORE_ARTICLES-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </div>
-
-<br>
+<br> -->
 
 <!-- <div align="center">
   <h1>🎯 Future Goals</h1>
